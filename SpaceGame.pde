@@ -14,8 +14,8 @@
  ** gifAnimation - this is for playing gifs (extrapixel.ch/processing/gifAnimation)
  */
 
-// SELECT LEVEL:
-// (there must be a level in the /data folder with that number)
+// SELECT MAP:
+// (there must be a map in the /data folder with that number)
 int game = 1;
 
 // If playing without a Kinect, set debug to TRUE

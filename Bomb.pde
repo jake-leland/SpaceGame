@@ -1,3 +1,5 @@
+// This class is not yet in use.
+
 class Bomb
 {
   float x;
