@@ -1,35 +1,35 @@
-0,0,0
+0,0,0 1 4
 XXXXXXXXXXXXXXXX
 X              X
 X         O   XX
 XX            XX
 XXX           XX
-XXXX  F      XXX
+XXXX  S      XXX
 XXXX         X X
 XXX         XX X
 XX         XX  X
-X          X F X
-X          X F X
-X            F X
-X      F     F X
+X          X S X
+X          X S X
+X            S X
+X      S     S X
 XDDDDDDDDDDDDDDX
-XXXXXX       F X
-X    D     D F X
-X     D   D  F X
-X  F   D D F  XX
+XXXXXX       S X
+X    D     D S X
+X     D   D  S X
+X  S   D D S  XX
 XX      D     XX
 XXX           XX
-XXXX  F      XXX
-XXXX     F   X X
-XXX  F      XX X
-XX       F XX  X
-X    F     X F X
-X F    D   X   X
+XXXX  S      XXX
+XXXX     S   X X
+XXX  S      XX X
+XX       S XX  X
+X    S     X S X
+X S    D   X   X
 X              X
 X  D  D  D  D  X
-X        F     X
+X        S     X
 XXXXXX         X
-X  DF DFFD FD  X
+X  DS DSSD SD  X
 X              X
 X              X
 X              X
