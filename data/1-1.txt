@@ -1,0 +1,32 @@
+0,0,0 1 1
+XXXXXXXXXXXXXXXX
+X              X
+X              X
+X  DED    DED  X
+X              X
+X              X
+X            XXX
+X  E    XXXXXXXX
+X   E    XXXXXXX
+X    E         X
+XX    E        X
+XX             X
+XXX  EDDEDEDDE X
+XXX            X
+XXXX           X
+XXXX     E     X
+XXXXX  E D E   X
+XXXXX    E     X
+XXXXX          X
+XXXXX D D D D  X
+XXXX   D D D D X
+XXXX           X
+XXX            X
+XXX            X
+XX             X
+XX             X
+X              X
+X              X
+X              X
+X              X
+XXXXXXXXXXXXXXXX

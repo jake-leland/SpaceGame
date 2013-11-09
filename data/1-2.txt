@@ -1,0 +1,32 @@
+0,0,0 1 2
+XXXXXXXXXXXXXXXX
+X              X
+X              X
+X              X
+X  DDD    DDD  X
+X              X
+X        E     X
+X EE   E       X
+X          XXXXX
+X              X
+X   D    X     X
+X   D    X  D  X
+X   D    X   D X
+X   D    X  D  X
+X         X  D X
+X  E E    X D  X
+X         X    X
+X              X
+X    X     E   X
+X   XXX        X
+X   XXX  D D   X
+X    X    D    X
+X              X
+X              X
+X              X
+X              X
+X              X
+X              X
+X              X
+X              X
+XXXXXXXXXXXXXXXX

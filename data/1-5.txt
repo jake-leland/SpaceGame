@@ -1,0 +1,41 @@
+0,0,0 1 2
+XXXXXXXXXXXXXXXX
+X              X
+X              X
+X      SS      X
+X  DEDE  EDED  X
+X              X
+X              X
+X             XX
+X            XXX
+X           XXXX
+X          XXXXX
+X         XXXXXX
+X   D    XXXXXXX
+X  DSD   XXXXXXX
+X   D    XXXXXXX
+X        XXxXXXX
+X     D  XXXXXXX
+XX   DSD  XXXXXX
+XXX   D    XXXXX
+XXXX        XXXX
+XXXXX    D   XXX
+XXXXXX  DSD   XX
+XXXXXXX  D     X
+XXXXXXX        X
+XXXXXXX   D    X
+XXXXXXX  DSD   X
+XXXXXXX   D    X
+XXXXXX         X
+XXXXX   D      X
+XXXX   DSD     X
+XXX     D      X
+XX             X
+X              X
+X              X
+X              X
+X              X
+X              X
+X              X
+X              X
+XXXXXXXXXXXXXXXX

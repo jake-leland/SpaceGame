@@ -1,0 +1,35 @@
+0,0,0 1 2
+XXXXXXXXXXXXXXXX
+X              X
+X  D           X
+X   X   EEEE   X
+X   X       D  X
+X E  XXXXX     X
+X     E   X  D X
+X       E X    X
+X    XX D X  D X
+X   X   E      X
+X  X    D    D X
+X X            X
+XX EE  XX  EE  X
+X     X  X     X
+X D   X  X   D X
+X     X  X     X
+XX     XX     XX
+XXX          XXX
+XXXX        XXXX
+XXXXX  DD  XXXXX
+XXXXXXDEEDXXXXXX
+XXXXXX DD XXXXXX
+XXXXX D  D XXXXX
+XXXX D DD D XXXX
+XXX D D  D D XXX
+XX D D DD D D XX
+X              X
+X              X
+X              X
+X              X
+X              X
+X              X
+X              X
+XXXXXXXXXXXXXXXX
