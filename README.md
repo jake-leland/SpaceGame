@@ -3,7 +3,7 @@ SpaceGame
 
 A Galaga-esque arcade game.
 
-Note: this is a [Processing](http://processing.org) sketch requiring the [gifAnimation library](extrapixel.ch/processing/gifAnimation). The game was developed to be played with the Xbox Kinect using the [Simple-OpenNI libraries](http://code.google.com/p/simple-openni/), but it is possible to play without a Kinect.
+*Note: this is a [Processing](http://processing.org) sketch requiring the [gifAnimation library](extrapixel.ch/processing/gifAnimation). The game was developed to be played with the Xbox Kinect using the [Simple-OpenNI libraries](http://code.google.com/p/simple-openni/), but it is possible to play without a Kinect.*
 
 Run the sketch to begin the game. Everything should be self-explanatory.
 
@@ -23,6 +23,6 @@ If playing without a Kinect, your mouse and keyboard control the ship.
 - To shoot, click the mouse.
 - To pause/unpause the game, press space.
 
-If you want to make custom maps, check out the README in the data directory.
+*If you want to make custom maps, check out the README in the data directory.*
 
 This project was in collaboration with Matthew Baker.
