@@ -23,4 +23,6 @@ If playing without a Kinect, your mouse and keyboard control the ship.
 - To shoot, click the mouse.
 - To pause/unpause the game, press space.
 
+If you want to make custom maps, check out the README in the data directory.
+
 This project was in collaboration with Matthew Baker.
