@@ -21,7 +21,7 @@ If playing without a Kinect, your mouse and keyboard control the ship.
 - To move the ship left, press the left arrow key.
 - To move the ship right, press the right arrow key.
 - To shoot, click the mouse.
-- To pause/unpause the game, press space.
+- To pause/unpause the game, press any other key.
 
 *If you want to make custom maps, check out the README in the data directory.*
 
